@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ЛР2\ЛР2\bin\Debug\ЛР2.exe.config
+C:\Users\Admin\source\repos\ЛР2\ЛР2\bin\Debug\ЛР2.exe
+C:\Users\Admin\source\repos\ЛР2\ЛР2\bin\Debug\ЛР2.pdb
+C:\Users\Admin\source\repos\ЛР2\ЛР2\obj\Debug\ЛР2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ЛР2\ЛР2\obj\Debug\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ЛР2\ЛР2\obj\Debug\ЛР2.exe
+C:\Users\Admin\source\repos\ЛР2\ЛР2\obj\Debug\ЛР2.pdb
